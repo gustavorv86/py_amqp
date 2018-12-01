@@ -14,7 +14,7 @@ sudo apt install python3-pika
 Run
 ---
 
-Check the RAbbitMQ server status:
+Check the RabbitMQ server status:
 
 ```
 sudo ./server/rabbitmq-status.sh
